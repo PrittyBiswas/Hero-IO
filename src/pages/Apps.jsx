@@ -90,11 +90,11 @@ const Apps = () => {
             ) : (
                 <>
                     {/* App Cards Grid */}
-                    <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-5 gap-6 max-w-6xl mx-auto">
+                    <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-5 gap-4 max-w-6xl mx-auto ">
                         {filteredApps.map((app) => (
                             <div
                                 key={app.id}
-                                className="card bg-base-100 shadow-md hover:shadow-lg transition border border-base-300 cursor-pointer"
+                                className="card bg-base-100 shadow-md hover:shadow-lg transition border border-base-300 cursor-pointer p-2"
                                 onClick={() => navigate(`/apps/${app.id}`)}
                             >
                                 <div className="h-32 bg-gray-200 rounded-md overflow-hidden">
