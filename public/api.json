@@ -1,0 +1,1652 @@
+[
+    {
+        "image": "https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=cover,w=1200,h=635,q=80/sites/www.builtin.com/files/2023-08/ai-assistant_0.jpg",
+        "title": "Hero AI Assistant",
+        "companyName": "EdNext",
+        "id": 1,
+        "description": "Hero AI Assistant is a cutting-edge mobile app developed by SonicVerse. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 74,
+        "reviews": 7253,
+        "ratingAvg": 4.7,
+        "downloads": 1788744,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 514
+            },
+            {
+                "name": "2 star",
+                "count": 577
+            },
+            {
+                "name": "3 star",
+                "count": 978
+            },
+            {
+                "name": "4 star",
+                "count": 3331
+            },
+            {
+                "name": "5 star",
+                "count": 8206
+            }
+        ]
+    },
+    {
+        "image": "https://www.hindustantimes.com/ht-img/img/2025/01/07/1600x900/ces_vegas__1736272014739_1736272036551.jpg",
+        "title": "HealthMirror AI",
+        "companyName": "Organify",
+        "id": 2,
+        "description": "HealthMirror AI is a cutting-edge mobile app developed by Organify. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 62,
+        "reviews": 12619,
+        "ratingAvg": 4.7,
+        "downloads": 1330947,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 561
+            },
+            {
+                "name": "2 star",
+                "count": 427
+            },
+            {
+                "name": "3 star",
+                "count": 699
+            },
+            {
+                "name": "4 star",
+                "count": 3982
+            },
+            {
+                "name": "5 star",
+                "count": 5928
+            }
+        ]
+    },
+    {
+        "image": "https://media.licdn.com/dms/image/v2/C4D0BAQEPTtOHWVHqsA/company-logo_200_200/company-logo_200_200/0/1630537247206/codefloworg_logo?e=2147483647&v=beta&t=axqvpyYa2y-Q_m7MHBu8P-ayu3PAru7iS7Uz8gzkMQk",
+        "title": "CodeFlow",
+        "companyName": "MindSpace",
+        "id": 3,
+        "description": "CodeFlow is a cutting-edge mobile app developed by UXNova. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 60,
+        "reviews": 19299,
+        "ratingAvg": 4.5,
+        "downloads": 1178785,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 400
+            },
+            {
+                "name": "2 star",
+                "count": 337
+            },
+            {
+                "name": "3 star",
+                "count": 1369
+            },
+            {
+                "name": "4 star",
+                "count": 1587
+            },
+            {
+                "name": "5 star",
+                "count": 8675
+            }
+        ]
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUp5nWy75xP5qDOlxlbWUQ4HBjd-1osCDwOg&s",
+        "title": "MindLock",
+        "companyName": "TechNova",
+        "id": 4,
+        "description": "MindLock is a cutting-edge mobile app developed by EduVerse. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 66,
+        "reviews": 5921,
+        "ratingAvg": 4.6,
+        "downloads": 1445676,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 660
+            },
+            {
+                "name": "2 star",
+                "count": 566
+            },
+            {
+                "name": "3 star",
+                "count": 672
+            },
+            {
+                "name": "4 star",
+                "count": 1505
+            },
+            {
+                "name": "5 star",
+                "count": 8811
+            }
+        ]
+    },
+    {
+        "image": "https://media.licdn.com/dms/image/v2/C4D0BAQF1e9jfGWoM4w/company-logo_200_200/company-logo_200_200/0/1679736629408/develearn_technologies_logo?e=2147483647&v=beta&t=bgGKpRXZKeOXIbUIHN2b_gJPRTkSAShLiXff_bX6G6E",
+        "title": "DevLearn Pro",
+        "companyName": "AIverse",
+        "id": 5,
+        "description": "DevLearn Pro is a cutting-edge mobile app developed by Dreamify. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 75,
+        "reviews": 16252,
+        "ratingAvg": 4.7,
+        "downloads": 980239,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 797
+            },
+            {
+                "name": "2 star",
+                "count": 787
+            },
+            {
+                "name": "3 star",
+                "count": 1302
+            },
+            {
+                "name": "4 star",
+                "count": 3162
+            },
+            {
+                "name": "5 star",
+                "count": 8561
+            }
+        ]
+    },
+    {
+        "image": "https://play-lh.googleusercontent.com/R2JHt1JIuw27YlbQbRY50-A_WnAVQu0nhkWaoDFU9YVeH0Zl9IxuTTxuKOvB_Ef3joN2hT20Q1f9Dm_sSoqSrJo",
+        "title": "SkillHub",
+        "companyName": "EduVerse",
+        "id": 6,
+        "description": "SkillHub is a cutting-edge mobile app developed by TechNova. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 55,
+        "reviews": 11843,
+        "ratingAvg": 4.4,
+        "downloads": 1824715,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 529
+            },
+            {
+                "name": "2 star",
+                "count": 700
+            },
+            {
+                "name": "3 star",
+                "count": 1126
+            },
+            {
+                "name": "4 star",
+                "count": 1686
+            },
+            {
+                "name": "5 star",
+                "count": 7412
+            }
+        ]
+    },
+    {
+        "image": "https://play-lh.googleusercontent.com/lB_uPjEVBd_yOYSH6fAEGDdTV_U5AGi3Qb-MzsKXNI1MfXyl1NptvdqH5UkWuL0JGNcEfT1ClUUCq8rNMnA_=w240-h480-rw",
+        "title": "TaskZen",
+        "companyName": "Wanderly",
+        "id": 7,
+        "description": "TaskZen is a cutting-edge mobile app developed by SmartKart. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 71,
+        "reviews": 5754,
+        "ratingAvg": 4.8,
+        "downloads": 1945417,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 462
+            },
+            {
+                "name": "2 star",
+                "count": 695
+            },
+            {
+                "name": "3 star",
+                "count": 625
+            },
+            {
+                "name": "4 star",
+                "count": 2233
+            },
+            {
+                "name": "5 star",
+                "count": 9657
+            }
+        ]
+    },
+    {
+        "image": "https://i.ytimg.com/vi/gRLoKyeOzSw/maxresdefault.jpg",
+        "title": "FitMirror",
+        "companyName": "Wanderly",
+        "id": 8,
+        "description": "FitMirror is a cutting-edge mobile app developed by LifeLink. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 57,
+        "reviews": 13498,
+        "ratingAvg": 4.4,
+        "downloads": 831929,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 336
+            },
+            {
+                "name": "2 star",
+                "count": 340
+            },
+            {
+                "name": "3 star",
+                "count": 1440
+            },
+            {
+                "name": "4 star",
+                "count": 2616
+            },
+            {
+                "name": "5 star",
+                "count": 11998
+            }
+        ]
+    },
+    {
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQHcoy4woPYP3Q/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1690994176898?e=2147483647&v=beta&t=Qb3gca-ayZhH0RUxfRJdf-tfsd3gUSQwzb0w-Sd2bXM",
+        "title": "PromptLab",
+        "companyName": "Tytosoft",
+        "id": 9,
+        "description": "PromptLab is a cutting-edge mobile app developed by ThinkApps. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 47,
+        "reviews": 14576,
+        "ratingAvg": 4.8,
+        "downloads": 772933,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 430
+            },
+            {
+                "name": "2 star",
+                "count": 328
+            },
+            {
+                "name": "3 star",
+                "count": 629
+            },
+            {
+                "name": "4 star",
+                "count": 1776
+            },
+            {
+                "name": "5 star",
+                "count": 4938
+            }
+        ]
+    },
+    {
+        "image": " https://pbs.twimg.com/profile_images/1897284381602893824/zp80H--m_400x400.jpg",
+        "title": "DevConnect",
+        "companyName": "Tytosoft",
+        "id": 10,
+        "description": "DevConnect is a cutting-edge mobile app developed by LifeLink. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 35,
+        "reviews": 8519,
+        "ratingAvg": 4.5,
+        "downloads": 1918430,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 800
+            },
+            {
+                "name": "2 star",
+                "count": 610
+            },
+            {
+                "name": "3 star",
+                "count": 805
+            },
+            {
+                "name": "4 star",
+                "count": 2817
+            },
+            {
+                "name": "5 star",
+                "count": 4606
+            }
+        ]
+    },
+    {
+        "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/da0c3gntczldzm6lcapa",
+        "title": "Designify",
+        "companyName": "TechNova",
+        "id": 11,
+        "description": "Designify is a cutting-edge mobile app developed by TechNova. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 35,
+        "reviews": 17241,
+        "ratingAvg": 4.8,
+        "downloads": 1535082,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 215
+            },
+            {
+                "name": "2 star",
+                "count": 481
+            },
+            {
+                "name": "3 star",
+                "count": 1097
+            },
+            {
+                "name": "4 star",
+                "count": 2004
+            },
+            {
+                "name": "5 star",
+                "count": 4918
+            }
+        ]
+    },
+    {
+        "image": "https://media.licdn.com/dms/image/v2/C4E0BAQHTbTZRQcoNNg/company-logo_200_200/company-logo_200_200/0/1678788143778/perfect_plantoday_logo?e=2147483647&v=beta&t=dqqrSX1udcgX2odAgZw5rlbRXh_nASfb-_Vm4ZcSWAg",
+        "title": "Learnify",
+        "companyName": "Dreamify",
+        "id": 12,
+        "description": "Learnify is a cutting-edge mobile app developed by HealthTech AI. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 67,
+        "reviews": 5373,
+        "ratingAvg": 4.5,
+        "downloads": 1055959,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 462
+            },
+            {
+                "name": "2 star",
+                "count": 551
+            },
+            {
+                "name": "3 star",
+                "count": 1287
+            },
+            {
+                "name": "4 star",
+                "count": 3630
+            },
+            {
+                "name": "5 star",
+                "count": 4892
+            }
+        ]
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvv4Kbaktl4eABqhsYuDAwT27-K0wMRf0b6Q&s",
+        "title": "TravelGo",
+        "companyName": "Tytosoft",
+        "id": 13,
+        "description": "TravelGo is a cutting-edge mobile app developed by NextGen Labs. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 35,
+        "reviews": 12078,
+        "ratingAvg": 4.7,
+        "downloads": 1851965,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 229
+            },
+            {
+                "name": "2 star",
+                "count": 593
+            },
+            {
+                "name": "3 star",
+                "count": 964
+            },
+            {
+                "name": "4 star",
+                "count": 3050
+            },
+            {
+                "name": "5 star",
+                "count": 8663
+            }
+        ]
+    },
+    {
+        "image": "https://getmusicmate.com/opengraph.png",
+        "title": "MusicMate",
+        "companyName": "CodeVerse",
+        "id": 14,
+        "description": "MusicMate is a cutting-edge mobile app developed by SonicVerse. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 63,
+        "reviews": 13338,
+        "ratingAvg": 4.4,
+        "downloads": 1843391,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 474
+            },
+            {
+                "name": "2 star",
+                "count": 573
+            },
+            {
+                "name": "3 star",
+                "count": 658
+            },
+            {
+                "name": "4 star",
+                "count": 2033
+            },
+            {
+                "name": "5 star",
+                "count": 11397
+            }
+        ]
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT05IJvkhGkjvlLnLohk0O9b9cqh2KMqqMB9w&s",
+        "title": "NotePlus",
+        "companyName": "ThinkApps",
+        "id": 15,
+        "description": "NotePlus is a cutting-edge mobile app developed by VisionApps. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 59,
+        "reviews": 10047,
+        "ratingAvg": 4.8,
+        "downloads": 395848,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 558
+            },
+            {
+                "name": "2 star",
+                "count": 678
+            },
+            {
+                "name": "3 star",
+                "count": 671
+            },
+            {
+                "name": "4 star",
+                "count": 3964
+            },
+            {
+                "name": "5 star",
+                "count": 6358
+            }
+        ]
+    },
+    {
+        "image": "https://logopond.com/logos/79ccc708006f78d59e674bdb90331756.png",
+        "title": "ShopWise",
+        "companyName": "AIverse",
+        "id": 16,
+        "description": "ShopWise is a cutting-edge mobile app developed by FlowTech. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 61,
+        "reviews": 18288,
+        "ratingAvg": 4.2,
+        "downloads": 988916,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 434
+            },
+            {
+                "name": "2 star",
+                "count": 716
+            },
+            {
+                "name": "3 star",
+                "count": 937
+            },
+            {
+                "name": "4 star",
+                "count": 2055
+            },
+            {
+                "name": "5 star",
+                "count": 5970
+            }
+        ]
+    },
+    {
+        "image": " https://media.licdn.com/dms/image/v2/D560BAQFm9Oz0ZHQPXA/company-logo_200_200/B56ZWjALRWHEAI-/0/1742196487988/workmatescore2cloud_logo?e=2147483647&v=beta&t=sVnRpL1xb9lLiBGqfQ9GrOu7bqPshM9MuwOctVn_ad0 ",
+        "title": "WorkMate",
+        "companyName": "ThinkApps",
+        "id": 17,
+        "description": "WorkMate is a cutting-edge mobile app developed by Dreamify. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 54,
+        "reviews": 16249,
+        "ratingAvg": 4.2,
+        "downloads": 1995194,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 245
+            },
+            {
+                "name": "2 star",
+                "count": 792
+            },
+            {
+                "name": "3 star",
+                "count": 794
+            },
+            {
+                "name": "4 star",
+                "count": 2222
+            },
+            {
+                "name": "5 star",
+                "count": 11414
+            }
+        ]
+    },
+    {
+        "image": " https://miro.medium.com/1*ZqZpx_7IoLN_c_f9ezua3w.jpeg ",
+        "title": "CalmSpace",
+        "companyName": "SonicVerse",
+        "id": 18,
+        "description": "CalmSpace is a cutting-edge mobile app developed by Hero IO. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 33,
+        "reviews": 18173,
+        "ratingAvg": 4.6,
+        "downloads": 1951656,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 377
+            },
+            {
+                "name": "2 star",
+                "count": 327
+            },
+            {
+                "name": "3 star",
+                "count": 731
+            },
+            {
+                "name": "4 star",
+                "count": 2598
+            },
+            {
+                "name": "5 star",
+                "count": 9340
+            }
+        ]
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UZM0Qtz-9GULjidEFRwQSyAX274xKxEUKg&s",
+        "title": "DreamFit",
+        "companyName": "UXNova",
+        "id": 19,
+        "description": "DreamFit is a cutting-edge mobile app developed by Organify. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 71,
+        "reviews": 17983,
+        "ratingAvg": 4.2,
+        "downloads": 860268,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 768
+            },
+            {
+                "name": "2 star",
+                "count": 355
+            },
+            {
+                "name": "3 star",
+                "count": 1393
+            },
+            {
+                "name": "4 star",
+                "count": 3356
+            },
+            {
+                "name": "5 star",
+                "count": 11805
+            }
+        ]
+    },
+    {
+        "image": " https://file.aiquickdraw.com/imgcompressed/img/compressed_4dad3ffa33bb40b2a19f414e83a03898.webp ",
+        "title": "MealMate",
+        "companyName": "MindSpace",
+        "id": 20,
+        "description": "MealMate is a cutting-edge mobile app developed by UXNova. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 79,
+        "reviews": 13528,
+        "ratingAvg": 4.4,
+        "downloads": 1831494,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 222
+            },
+            {
+                "name": "2 star",
+                "count": 396
+            },
+            {
+                "name": "3 star",
+                "count": 808
+            },
+            {
+                "name": "4 star",
+                "count": 3672
+            },
+            {
+                "name": "5 star",
+                "count": 11818
+            }
+        ]
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFFY2PclquUNz0m8rFSPdjRLG6JAjqre0gdg&s",
+        "title": "StudyTrack",
+        "companyName": "HealthTech AI",
+        "id": 21,
+        "description": "StudyTrack is a cutting-edge mobile app developed by Tytosoft. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 51,
+        "reviews": 18908,
+        "ratingAvg": 4.8,
+        "downloads": 248539,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 644
+            },
+            {
+                "name": "2 star",
+                "count": 542
+            },
+            {
+                "name": "3 star",
+                "count": 816
+            },
+            {
+                "name": "4 star",
+                "count": 3099
+            },
+            {
+                "name": "5 star",
+                "count": 11745
+            }
+        ]
+    },
+    {
+        "image": "https://cdn.sanity.io/images/bbnkhnhl/langflow-staging/e127cdbeac3b3785c8d4a740e61ce013eb6f0552-1200x600.png",
+        "title": "LangFlow",
+        "companyName": "HealthTech AI",
+        "id": 22,
+        "description": "LangFlow is a cutting-edge mobile app developed by Tytosoft. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 68,
+        "reviews": 6563,
+        "ratingAvg": 4.5,
+        "downloads": 704173,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 684
+            },
+            {
+                "name": "2 star",
+                "count": 705
+            },
+            {
+                "name": "3 star",
+                "count": 929
+            },
+            {
+                "name": "4 star",
+                "count": 3140
+            },
+            {
+                "name": "5 star",
+                "count": 4928
+            }
+        ]
+    },
+    {
+        "image": "https://play-lh.googleusercontent.com/VyH7KqgQtFGKUj7OdU-mNJKCFXb9eIwIPJAMSGSfYGA4TBpJ7lws05KjeZ5NjhvyZJ4",
+        "title": "IdeaSpark",
+        "companyName": "Tytosoft",
+        "id": 23,
+        "description": "IdeaSpark is a cutting-edge mobile app developed by VisionApps. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 42,
+        "reviews": 17382,
+        "ratingAvg": 4.9,
+        "downloads": 1847662,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 297
+            },
+            {
+                "name": "2 star",
+                "count": 498
+            },
+            {
+                "name": "3 star",
+                "count": 1213
+            },
+            {
+                "name": "4 star",
+                "count": 3739
+            },
+            {
+                "name": "5 star",
+                "count": 6307
+            }
+        ]
+    },
+    {
+        "image": "https://play-lh.googleusercontent.com/SNT0rEvrMhbEfI7EfWorSrZo_YuznICGwihb5mHgdbCyW0showZNKDgzPG5cRNaw3K_K",
+        "title": "FinancePro",
+        "companyName": "FlowTech",
+        "id": 24,
+        "description": "FinancePro is a cutting-edge mobile app developed by MindSpace. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 65,
+        "reviews": 12424,
+        "ratingAvg": 4.2,
+        "downloads": 1689017,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 775
+            },
+            {
+                "name": "2 star",
+                "count": 555
+            },
+            {
+                "name": "3 star",
+                "count": 1141
+            },
+            {
+                "name": "4 star",
+                "count": 2769
+            },
+            {
+                "name": "5 star",
+                "count": 9880
+            }
+        ]
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtI0fuycYVdbTr_gABFwXtsLdND_qVN14Jrg&s",
+        "title": "PhotoZen",
+        "companyName": "Tytosoft",
+        "id": 25,
+        "description": "PhotoZen is a cutting-edge mobile app developed by CodeVerse. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 34,
+        "reviews": 7380,
+        "ratingAvg": 4.2,
+        "downloads": 633514,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 421
+            },
+            {
+                "name": "2 star",
+                "count": 667
+            },
+            {
+                "name": "3 star",
+                "count": 1472
+            },
+            {
+                "name": "4 star",
+                "count": 1598
+            },
+            {
+                "name": "5 star",
+                "count": 7249
+            }
+        ]
+    },
+    {
+        "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi0fA7x6C7vI305dI60jc6rWY3EyOFh1Oaiw&s ",
+        "title": "HomeSync",
+        "companyName": "ThinkApps",
+        "id": 26,
+        "description": "HomeSync is a cutting-edge mobile app developed by TechNova. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 74,
+        "reviews": 15613,
+        "ratingAvg": 4.9,
+        "downloads": 1930415,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 453
+            },
+            {
+                "name": "2 star",
+                "count": 887
+            },
+            {
+                "name": "3 star",
+                "count": 1354
+            },
+            {
+                "name": "4 star",
+                "count": 1752
+            },
+            {
+                "name": "5 star",
+                "count": 9067
+            }
+        ]
+    },
+    {
+        "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVBpOssJQe-hM7u0K9fRByxyJciETgv9Fymd-KXBPlBxdnQYqeacSLX9LstyCaRNLlOtU&usqp=CAU ",
+        "title": "Artify",
+        "companyName": "VisionApps",
+        "id": 27,
+        "description": "Artify is a cutting-edge mobile app developed by HealthTech AI. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 31,
+        "reviews": 12222,
+        "ratingAvg": 4.2,
+        "downloads": 1248597,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 775
+            },
+            {
+                "name": "2 star",
+                "count": 568
+            },
+            {
+                "name": "3 star",
+                "count": 1315
+            },
+            {
+                "name": "4 star",
+                "count": 2939
+            },
+            {
+                "name": "5 star",
+                "count": 9111
+            }
+        ]
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrhdSWmLADkFQVm-DqY6sX35j_msiS8HapMQ&s",
+        "title": "VoiceVerse",
+        "companyName": "Wanderly",
+        "id": 28,
+        "description": "VoiceVerse is a cutting-edge mobile app developed by Tytosoft. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 80,
+        "reviews": 9285,
+        "ratingAvg": 4.5,
+        "downloads": 191294,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 614
+            },
+            {
+                "name": "2 star",
+                "count": 661
+            },
+            {
+                "name": "3 star",
+                "count": 1266
+            },
+            {
+                "name": "4 star",
+                "count": 3484
+            },
+            {
+                "name": "5 star",
+                "count": 6208
+            }
+        ]
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwk8hz94NduQ2HL_rjIokikPEEks10L-oWrN9-zraRPGIE8_DfAVsxAmiYZdv1LH8LGXU&usqp=CAU",
+        "title": "Planify",
+        "companyName": "TechNova",
+        "id": 29,
+        "description": "Planify is a cutting-edge mobile app developed by VisionApps. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 60,
+        "reviews": 8552,
+        "ratingAvg": 4.9,
+        "downloads": 1415484,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 682
+            },
+            {
+                "name": "2 star",
+                "count": 381
+            },
+            {
+                "name": "3 star",
+                "count": 1080
+            },
+            {
+                "name": "4 star",
+                "count": 2478
+            },
+            {
+                "name": "5 star",
+                "count": 11358
+            }
+        ]
+    },
+    {
+        "image": "https://tenoaksenergyadvisors.com/wp-content/uploads/2018/09/Weatherly-Logo-for-Web-v2.jpg",
+        "title": "Weatherly",
+        "companyName": "Wanderly",
+        "id": 30,
+        "description": "Weatherly is a cutting-edge mobile app developed by VisionApps. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 42,
+        "reviews": 8218,
+        "ratingAvg": 4.7,
+        "downloads": 1095988,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 795
+            },
+            {
+                "name": "2 star",
+                "count": 349
+            },
+            {
+                "name": "3 star",
+                "count": 903
+            },
+            {
+                "name": "4 star",
+                "count": 3026
+            },
+            {
+                "name": "5 star",
+                "count": 10733
+            }
+        ]
+    },
+    {
+        "image": "https://play-lh.googleusercontent.com/tOJBzM-ctlWmS_YoShJJ4cHxxdqbvRf-51G7C9V2g9fkTUH01OV0PkxyN34DWfFvqTxLebA5hFp_DWLy3MbHQA=w600-h300-pc0xffffff-pd",
+        "title": "SmartBudget",
+        "companyName": "VisionApps",
+        "id": 31,
+        "description": "SmartBudget is a cutting-edge mobile app developed by UXNova. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 79,
+        "reviews": 7113,
+        "ratingAvg": 4.4,
+        "downloads": 935077,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 557
+            },
+            {
+                "name": "2 star",
+                "count": 607
+            },
+            {
+                "name": "3 star",
+                "count": 678
+            },
+            {
+                "name": "4 star",
+                "count": 3959
+            },
+            {
+                "name": "5 star",
+                "count": 4021
+            }
+        ]
+    },
+    {
+        "image": "https://play-lh.googleusercontent.com/dh9Fk20MwwASwsbdcbU3ZkGPqmowJIB92NJ-LCavxGlFBli36ByMYtYZkpVtqqJNbA=w600-h300-pc0xffffff-pd",
+        "title": "EcoTrack",
+        "companyName": "Wanderly",
+        "id": 32,
+        "description": "EcoTrack is a cutting-edge mobile app developed by AIverse. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 56,
+        "reviews": 19505,
+        "ratingAvg": 4.6,
+        "downloads": 770732,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 642
+            },
+            {
+                "name": "2 star",
+                "count": 438
+            },
+            {
+                "name": "3 star",
+                "count": 922
+            },
+            {
+                "name": "4 star",
+                "count": 2297
+            },
+            {
+                "name": "5 star",
+                "count": 11601
+            }
+        ]
+    },
+    {
+        "image": "https://file.aiquickdraw.com/imgcompressed/img/compressed_049bedda0c111cccc16512f11a4175de.webp",
+        "title": "FocusFlow",
+        "companyName": "EdNext",
+        "id": 33,
+        "description": "FocusFlow is a cutting-edge mobile app developed by Wanderly. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 66,
+        "reviews": 14530,
+        "ratingAvg": 4.2,
+        "downloads": 345231,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 329
+            },
+            {
+                "name": "2 star",
+                "count": 476
+            },
+            {
+                "name": "3 star",
+                "count": 1239
+            },
+            {
+                "name": "4 star",
+                "count": 2124
+            },
+            {
+                "name": "5 star",
+                "count": 11289
+            }
+        ]
+    },
+    {
+        "image": "/apps/app-34.png",
+        "title": "DailyBoost",
+        "companyName": "CodeVerse",
+        "id": 34,
+        "description": "DailyBoost is a cutting-edge mobile app developed by EdNext. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 37,
+        "reviews": 14063,
+        "ratingAvg": 4.9,
+        "downloads": 244169,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 456
+            },
+            {
+                "name": "2 star",
+                "count": 869
+            },
+            {
+                "name": "3 star",
+                "count": 607
+            },
+            {
+                "name": "4 star",
+                "count": 3423
+            },
+            {
+                "name": "5 star",
+                "count": 6319
+            }
+        ]
+    },
+    {
+        "image": "/apps/app-35.png",
+        "title": "MindGarden",
+        "companyName": "AIverse",
+        "id": 35,
+        "description": "MindGarden is a cutting-edge mobile app developed by SonicVerse. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 71,
+        "reviews": 7886,
+        "ratingAvg": 4.4,
+        "downloads": 1613244,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 744
+            },
+            {
+                "name": "2 star",
+                "count": 346
+            },
+            {
+                "name": "3 star",
+                "count": 1213
+            },
+            {
+                "name": "4 star",
+                "count": 2291
+            },
+            {
+                "name": "5 star",
+                "count": 11545
+            }
+        ]
+    },
+    {
+        "image": "/apps/app-36.png",
+        "title": "WriteNow",
+        "companyName": "CodeVerse",
+        "id": 36,
+        "description": "WriteNow is a cutting-edge mobile app developed by SmartKart. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 67,
+        "reviews": 5131,
+        "ratingAvg": 4.4,
+        "downloads": 1498527,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 318
+            },
+            {
+                "name": "2 star",
+                "count": 776
+            },
+            {
+                "name": "3 star",
+                "count": 538
+            },
+            {
+                "name": "4 star",
+                "count": 3657
+            },
+            {
+                "name": "5 star",
+                "count": 10678
+            }
+        ]
+    },
+    {
+        "image": "/apps/app-37.png",
+        "title": "SkillForge",
+        "companyName": "FlowTech",
+        "id": 37,
+        "description": "SkillForge is a cutting-edge mobile app developed by Hero IO. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 43,
+        "reviews": 19951,
+        "ratingAvg": 4.3,
+        "downloads": 665972,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 797
+            },
+            {
+                "name": "2 star",
+                "count": 331
+            },
+            {
+                "name": "3 star",
+                "count": 1092
+            },
+            {
+                "name": "4 star",
+                "count": 2358
+            },
+            {
+                "name": "5 star",
+                "count": 8154
+            }
+        ]
+    },
+    {
+        "image": "/apps/app-38.png",
+        "title": "CookMate",
+        "companyName": "MindSpace",
+        "id": 38,
+        "description": "CookMate is a cutting-edge mobile app developed by Tytosoft. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 54,
+        "reviews": 16211,
+        "ratingAvg": 4.6,
+        "downloads": 1867490,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 763
+            },
+            {
+                "name": "2 star",
+                "count": 519
+            },
+            {
+                "name": "3 star",
+                "count": 1220
+            },
+            {
+                "name": "4 star",
+                "count": 1620
+            },
+            {
+                "name": "5 star",
+                "count": 8801
+            }
+        ]
+    },
+    {
+        "image": "/apps/app-39.png",
+        "title": "ReadEase",
+        "companyName": "MindSpace",
+        "id": 39,
+        "description": "ReadEase is a cutting-edge mobile app developed by AIverse. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 37,
+        "reviews": 15943,
+        "ratingAvg": 4.4,
+        "downloads": 1518639,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 475
+            },
+            {
+                "name": "2 star",
+                "count": 433
+            },
+            {
+                "name": "3 star",
+                "count": 1399
+            },
+            {
+                "name": "4 star",
+                "count": 3303
+            },
+            {
+                "name": "5 star",
+                "count": 5057
+            }
+        ]
+    },
+    {
+        "image": "/apps/app-40.png",
+        "title": "VisionBoard",
+        "companyName": "EdNext",
+        "id": 40,
+        "description": "VisionBoard is a cutting-edge mobile app developed by TechNova. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 41,
+        "reviews": 5772,
+        "ratingAvg": 4.3,
+        "downloads": 1708192,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 751
+            },
+            {
+                "name": "2 star",
+                "count": 411
+            },
+            {
+                "name": "3 star",
+                "count": 623
+            },
+            {
+                "name": "4 star",
+                "count": 2387
+            },
+            {
+                "name": "5 star",
+                "count": 10052
+            }
+        ]
+    },
+    {
+        "image": "/apps/app-41.png",
+        "title": "TripNest",
+        "companyName": "VisionApps",
+        "id": 41,
+        "description": "TripNest is a cutting-edge mobile app developed by FlowTech. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 65,
+        "reviews": 9678,
+        "ratingAvg": 4.2,
+        "downloads": 262049,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 773
+            },
+            {
+                "name": "2 star",
+                "count": 774
+            },
+            {
+                "name": "3 star",
+                "count": 1415
+            },
+            {
+                "name": "4 star",
+                "count": 2539
+            },
+            {
+                "name": "5 star",
+                "count": 5587
+            }
+        ]
+    },
+    {
+        "image": "/apps/app-42.png",
+        "title": "HabitLoop",
+        "companyName": "SmartKart",
+        "id": 42,
+        "description": "HabitLoop is a cutting-edge mobile app developed by Dreamify. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 67,
+        "reviews": 9014,
+        "ratingAvg": 4.5,
+        "downloads": 1231819,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 689
+            },
+            {
+                "name": "2 star",
+                "count": 626
+            },
+            {
+                "name": "3 star",
+                "count": 545
+            },
+            {
+                "name": "4 star",
+                "count": 1789
+            },
+            {
+                "name": "5 star",
+                "count": 4555
+            }
+        ]
+    },
+    {
+        "image": "/apps/app-43.png",
+        "title": "LiveTune",
+        "companyName": "MindSpace",
+        "id": 43,
+        "description": "LiveTune is a cutting-edge mobile app developed by Organify. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 60,
+        "reviews": 5293,
+        "ratingAvg": 4.6,
+        "downloads": 326809,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 779
+            },
+            {
+                "name": "2 star",
+                "count": 482
+            },
+            {
+                "name": "3 star",
+                "count": 1490
+            },
+            {
+                "name": "4 star",
+                "count": 2435
+            },
+            {
+                "name": "5 star",
+                "count": 11031
+            }
+        ]
+    },
+    {
+        "image": "/apps/app-44.png",
+        "title": "Moodify",
+        "companyName": "EduVerse",
+        "id": 44,
+        "description": "Moodify is a cutting-edge mobile app developed by UXNova. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 69,
+        "reviews": 16111,
+        "ratingAvg": 4.8,
+        "downloads": 1511437,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 574
+            },
+            {
+                "name": "2 star",
+                "count": 809
+            },
+            {
+                "name": "3 star",
+                "count": 1227
+            },
+            {
+                "name": "4 star",
+                "count": 2673
+            },
+            {
+                "name": "5 star",
+                "count": 5231
+            }
+        ]
+    },
+    {
+        "image": "/apps/app-45.png",
+        "title": "TimeSync",
+        "companyName": "VisionApps",
+        "id": 45,
+        "description": "TimeSync is a cutting-edge mobile app developed by Dreamify. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 39,
+        "reviews": 11064,
+        "ratingAvg": 4.7,
+        "downloads": 1819789,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 242
+            },
+            {
+                "name": "2 star",
+                "count": 618
+            },
+            {
+                "name": "3 star",
+                "count": 515
+            },
+            {
+                "name": "4 star",
+                "count": 1614
+            },
+            {
+                "name": "5 star",
+                "count": 7838
+            }
+        ]
+    },
+    {
+        "image": "/apps/app-46.png",
+        "title": "Craftify",
+        "companyName": "MindSpace",
+        "id": 46,
+        "description": "Craftify is a cutting-edge mobile app developed by SmartKart. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 38,
+        "reviews": 5961,
+        "ratingAvg": 4.3,
+        "downloads": 339679,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 798
+            },
+            {
+                "name": "2 star",
+                "count": 401
+            },
+            {
+                "name": "3 star",
+                "count": 1085
+            },
+            {
+                "name": "4 star",
+                "count": 2628
+            },
+            {
+                "name": "5 star",
+                "count": 5518
+            }
+        ]
+    },
+    {
+        "image": "/apps/app-47.png",
+        "title": "ZenSleep",
+        "companyName": "NextGen Labs",
+        "id": 47,
+        "description": "ZenSleep is a cutting-edge mobile app developed by VisionApps. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 35,
+        "reviews": 17298,
+        "ratingAvg": 4.6,
+        "downloads": 1188033,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 341
+            },
+            {
+                "name": "2 star",
+                "count": 734
+            },
+            {
+                "name": "3 star",
+                "count": 1111
+            },
+            {
+                "name": "4 star",
+                "count": 2448
+            },
+            {
+                "name": "5 star",
+                "count": 8010
+            }
+        ]
+    },
+    {
+        "image": "/apps/app-48.png",
+        "title": "CareerLift",
+        "companyName": "Tytosoft",
+        "id": 48,
+        "description": "CareerLift is a cutting-edge mobile app developed by Hero IO. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 79,
+        "reviews": 11740,
+        "ratingAvg": 4.7,
+        "downloads": 987116,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 664
+            },
+            {
+                "name": "2 star",
+                "count": 486
+            },
+            {
+                "name": "3 star",
+                "count": 885
+            },
+            {
+                "name": "4 star",
+                "count": 3733
+            },
+            {
+                "name": "5 star",
+                "count": 9770
+            }
+        ]
+    },
+    {
+        "image": "/apps/app-49.png",
+        "title": "Taskify",
+        "companyName": "EduVerse",
+        "id": 49,
+        "description": "Taskify is a cutting-edge mobile app developed by Tytosoft. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 59,
+        "reviews": 7557,
+        "ratingAvg": 4.4,
+        "downloads": 1444581,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 585
+            },
+            {
+                "name": "2 star",
+                "count": 424
+            },
+            {
+                "name": "3 star",
+                "count": 1235
+            },
+            {
+                "name": "4 star",
+                "count": 3403
+            },
+            {
+                "name": "5 star",
+                "count": 4188
+            }
+        ]
+    },
+    {
+        "image": "/apps/app-50.png",
+        "title": "GoalMaster",
+        "companyName": "MindSpace",
+        "id": 50,
+        "description": "GoalMaster is a cutting-edge mobile app developed by SonicVerse. It offers smart features powered by AI to enhance productivity, creativity, and user experience. Built for both students and professionals who value innovation and simplicity.",
+        "size": 80,
+        "reviews": 11174,
+        "ratingAvg": 4.7,
+        "downloads": 1143839,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 577
+            },
+            {
+                "name": "2 star",
+                "count": 442
+            },
+            {
+                "name": "3 star",
+                "count": 602
+            },
+            {
+                "name": "4 star",
+                "count": 2052
+            },
+            {
+                "name": "5 star",
+                "count": 4108
+            }
+        ]
+    }
+]
