@@ -1,16 +1,55 @@
-# React + Vite
+📌 Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hero.io is a mobile application designed to provide users with a smooth, intuitive, and engaging experience through a modern UI and efficient performance. The app focuses on simplicity, usability, and scalability, making it suitable for real-world use and future feature expansion.
 
-Currently, two official plugins are available:
+**Live Link** : https://madehero-io.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+**Core Features**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Clean and modern mobile UI
 
-## Expanding the ESLint configuration
+Smooth navigation and user-friendly layout
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Fast performance and optimized rendering
+
+Scalable architecture for future features
+
+Responsive design for multiple screen sizes
+
+
+
+**Tech Stack**
+
+
+Framework: React Native / Flutter (choose one)
+
+Language: JavaScript / Dart
+
+State Management: React Hooks / Provider
+
+Navigation: React Navigation
+
+API Handling: Axios / Fetch API
+
+Backend : Node.js
+
+
+
+**Dependencies**
+
+Main dependencies used in Hero.io:
+
+react-native
+
+react-navigation
+
+axios
+
+
+
+
+
+Database (if used): MongoDB / Firebase
+
+Tools: Git, GitHub
